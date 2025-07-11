@@ -1,0 +1,67 @@
+
+
+.raleway-normal{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.inter-normal{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+/* shared style */
+.text-primary{
+    color: #4E47FF;
+}
+
+.btn-primary{
+    background-color:#4E47FF;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    color: white;
+    padding: 18px 36px;
+    border-radius: 5px;
+}
+
+
+
+/* Nav Style */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-title{
+    font-weight: 700;
+    font-size: 34px;
+}
+
+nav ul li{
+    list-style: none;
+    
+}
+nav li a {
+    text-decoration: none;
+
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+}
+/* banner style */
+.banner-content{
+    font-size: 25px;
+    font-weight: 600;
+    width: 450px;
+    margin: 0 auto;
+    padding: 309px 267px 152px 267px;
+ 
+
+}
